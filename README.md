@@ -59,6 +59,8 @@ Key objectives include:
 ### 🔗 Documentation & Tutorials
 - [tldraw – Interactive diagram used in this project](https://www.tldraw.com/f/msyn72LhlnBPJBMyrwpQI?d=v587.578.3652.2119.page)
 - [YouTube – Concept explanation / tutorial reference](https://www.youtube.com/watch?v=61kRxdZ5p-o&t=1008s) //// [YOUTUBE: SUBNETTING](https://www.youtube.com/watch?v=s_Ntt6eTn94)
+- - [TCP/IP](https://www.geeksforgeeks.org/computer-networks/tcp-ip-model/)
+
 
 ### Networking Concepts Studied
 
